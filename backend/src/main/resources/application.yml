@@ -12,4 +12,4 @@ app:
     python-command: python
     script-path: publisher_cli.py
     working-directory: ..
-    gemini-api-key: AIzaSyDkFZGgFtrEqlJN9O74FACS1ml1dxgzsgs
+    gemini-api-key: 
