@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: blog-automation
+
+app:
+  cors:
+    allowed-origin: http://localhost:5173
+  publisher:
+    python-command: python
+    script-path: publisher_cli.py
+    working-directory: ..
+    gemini-api-key: AIzaSyDkFZGgFtrEqlJN9O74FACS1ml1dxgzsgs
