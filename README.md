@@ -2,6 +2,9 @@
 
 엑셀 기반 Python 자동화 스크립트를 Spring Boot + React 웹 서비스 형태로 옮기는 작업용 저장소입니다.
 
+## 시연 영상
+![네이법 블로그 자동 포스팅 시연 GIF](auto.gif)
+
 ## 현재 구조
 
 - `backend/`
